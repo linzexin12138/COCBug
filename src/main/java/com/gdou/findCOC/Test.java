@@ -17,7 +17,7 @@ public class Test {
     }
 
     public static void fun2(String a){
-        System.out.println();
+        System.out.println(a);
     }
 
 }
